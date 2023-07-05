@@ -35,53 +35,53 @@ let data = {
 		
 
 		id: '1',
-		image: require('../assets/glasses.png'),
+		image: require('../assets/crown-pic1.png'),
 	},
 ],
 "round":[
 	{
 		id: '2',
-		image: require('../assets/glasses-round.png'),
+		image: require('../assets/crown-pic2.png'),
 	},
 
 	{
 		id: '3',
-		image: require('../assets/Frapp-02.png'),
+		image: require('../assets/crown-pic3.png'),
 	},
 ],
 "wayfare":[
 	{
 		id: '4',
-		image: require('../assets/Frapp-03.png'),
+		image: require('../assets/flower-pic1.png'),
 	},
 
 	{
 		id: '5',
-		image: require('../assets/Frapp-04.png'),
+		image: require('../assets/flower-pic2.png'),
 	},
 ],
 "aviator":[
 	{
 		id: '6',
-		image: require('../assets/Frapp-05.png'),
+		image: require('../assets/flower-pic3.png'),
 	},
 	{
 		id: '7',
-		image: require('../assets/Frapp-06.png'),
+		image: require('../assets/hair-pic1.png'),
 	},
 	{
 		id: '8',
-		image: require('../assets/Frapp-07.png'),
+		image: require('../assets/hat-pic2.png'),
 	},
 	{
 		id: '9',
-		image: require('../assets/Frapp-08.png'),
+		image: require('../assets/hat-pic3..png'),
 	},
 ],
 "rimless":[
 	{
 		id: '10',
-		image: require('../assets/Frapp-09.png'),
+		image: require('../assets/other-pic1.png'),
 	},
 ]
 }
